@@ -1,0 +1,8 @@
+---
+name: Eeprom
+author: Jason Berger
+created: 01/30/2020
+category: Device/Memory
+requires: [Platform]
+description: Generic I2C/SPI Eeprom Memory
+bus: I2C, SPI
